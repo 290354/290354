@@ -22,7 +22,7 @@
 
 | 仓库 | 内容 | 规格 |
 |---|---|---|
-| [science-video-lab](https://github.com/290354/science-video-lab) | 科学爆点视频工坊。首期《一根橡皮筋，凭什么证明钉子不能凭空消失？》讲**同调（Homology）**——为什么选它不选更热的拓扑边缘态：因为它是本季度三条爆点新闻的共同底层语言 | 4′16″ · 1920×1080@60 · Manim CE 0.22 · 全程不用 LaTeX · 原创程序化 BGM |
+| [science-video-lab](https://github.com/290354/science-video-lab) | 科学爆点视频工坊。首期《一根橡皮筋，凭什么证明钉子不能凭空消失？》讲**同调（Homology）**——为什么选它不选更热的拓扑边缘态：因为它是本季度三条爆点新闻的共同底层语言 | 4′49″ · 1920×1080@60 · Manim CE 0.22 · 全程不用 LaTeX · 原创程序化 BGM |
 | [sci-pop-20261101-survivor-planets](https://github.com/290354/sci-pop-20261101-survivor-planets) | 科普爆点动画周刊 **第 1 期**：三颗本不该存在的行星（红巨星幸存悖论，云南大学钱声帮团队）。天文题材走路线 B——HTML+Canvas+Playwright 逐帧渲染，不用 Manim | 5′20″ · 1280×720@30 · 9618 帧 · 音画按 `ts = t × (SCRIPT_T/DUR)` 线性映射，语速变了自动跟 |
 | [sci-pop-20261102-mosquito-bite](https://github.com/290354/sci-pop-20261102-mosquito-bite) | 科普爆点动画周刊 **第 2 期**：蚊子的「手术」——为什么你几乎感觉不到它在扎你。口器六根零件、两排错开的齿、唾沫里的三种化学物质 | 4′45″ · 1280×720@30 · 8549 帧 · 6 个场景按语义对齐解说 |
 | [sci-pop-20261104-blackhole-sprint](https://github.com/290354/sci-pop-20261104-blackhole-sprint) | 科普爆点动画周刊 **第 3 期**：四十倍——LID-568 的超爱丁顿进食。韦布望远镜看到一个被光撑开的盘，怎么绕过爱丁顿极限 | 5′02″ · 1280×720@30 · 9066 帧 · 含片尾卡 |
